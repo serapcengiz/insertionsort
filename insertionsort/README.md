@@ -26,5 +26,9 @@ Dizi sıralandıktan sonra 18 sayısı Average Case kapsamındadır
 3.[2,3,4,5,7,9,8,15,6]
 4.[2,3,4,5,6,9,8,15,7]
 ```
+<<<<<<< HEAD:insertionsort/README.md
 
 
+=======
+https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje
+>>>>>>> e7835ac57f9b74d040a355421441690320b0663d:README.md
